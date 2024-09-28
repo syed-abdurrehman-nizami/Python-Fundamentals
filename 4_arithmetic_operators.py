@@ -25,6 +25,9 @@ print('After multiplication : ', ans)
 ans = num1/num2
 print('After division : ', ans)
 
+ans = num1%num2   # give remainder
+print('After modulus the remainder is : ', ans)
+
 ans = num1**num2  # num1^num2  power
 print('After Exponentiation : ', ans)
 
