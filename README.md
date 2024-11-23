@@ -33,7 +33,6 @@ Welcome to the **Python Development Repository**! This is your one-stop destinat
 
 ## 🌟 Highlights  
 
-- 📘 Detailed ReadMe files in each folder.  
 - 🧑‍🏫 Sample projects and mini-tasks for every topic.  
 - 🛠️ Built with beginner-friendly and clean code practices.  
 - 🥳 Engaging animations and interactive content coming soon!  
