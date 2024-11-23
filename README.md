@@ -1,7 +1,3 @@
-Here's a polished and engaging README.md for your Python development repository:  
-
----
-
 # 🐍 Python Development: From Basics to Mastery 🚀  
 
 Welcome to the **Python Development Repository**! This is your one-stop destination for learning Python programming, starting from the absolute basics and progressing to advanced concepts. Whether you're a beginner or an experienced coder looking to refine your skills, this repository has something for everyone!  
@@ -11,23 +7,8 @@ Welcome to the **Python Development Repository**! This is your one-stop destinat
 ## ✨ Why This Repository?  
 
 - 📚 **Comprehensive Learning**: Covers all the core concepts of Python step-by-step.  
-- 🧑‍💻 **Practical Examples**: Hands-on coding with real-world applications.  
-- 🎯 **Advanced Topics**: Mastery-level topics like web development, data science, and more.  
+- 🧑‍💻 **Practical Examples**: Hands-on coding with real-world applications.   
 - 🔥 **Regular Updates**: New topics and examples added frequently.  
-
----
-
-## 🗂️ Repository Structure  
-
-Here’s how the repository is organized:  
-
-| Folder Name         | Description                                                                 |
-|---------------------|-----------------------------------------------------------------------------|
-| `1_basics`          | 🚀 Introduction to Python, syntax, variables, data types, and control flow. |
-| `2_intermediate`    | 🧩 Functions, modules, file handling, and object-oriented programming (OOP). |
-| `3_advanced`        | ⚡ Multithreading, decorators, metaprogramming, and advanced data structures. |
-| `4_web_development` | 🌐 Flask, Django, and building full-stack applications.                      |
-| `5_data_science`    | 📊 NumPy, pandas, Matplotlib, and machine learning basics.                   |
 
 ---
 
@@ -43,7 +24,7 @@ Here’s how the repository is organized:
 
 1. **Clone the Repository**:  
    ```bash
-   git clone https://github.com/your-username/python-development.git
+   git clone https://github.com/syed-abdurrehman-nizami/Python-Fundamentals.git
    ```  
 2. **Navigate** to the desired folder.  
 3. Run Python scripts directly in your terminal or favorite IDE.  
@@ -69,7 +50,3 @@ Here’s how the repository is organized:
 ## 🔥 Start Your Python Journey Today!  
 
 Dive into the world of Python development now and become a coding master. Happy Coding! 😊  
-
----
-
-Let me know if you'd like further tweaks or additional sections! 🚀
